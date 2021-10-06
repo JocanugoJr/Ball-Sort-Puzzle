@@ -1,7 +1,7 @@
 # Ball-Sort-Puzzle
  Jogo desenvolvido durante a faculdade.
  
- /**ENUNCIADO*/
+ //ENUNCIADO
  
  1) Utilizando lista de pilhas ou vetor dinâmico de pilhas, implemente a variação do jogo de
 separação de bolas (Ball Sort Puzzle) descrita abaixo.
