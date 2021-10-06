@@ -8,8 +8,8 @@ separação de bolas (Ball Sort Puzzle) descrita abaixo.
 
 ![image](https://user-images.githubusercontent.com/91928006/136211557-b9b47188-3f4a-462a-a52b-b702b9294bdc.png)
 
-• A Figura 1(a) mostra o cenário inicial do jogo:\n
-o N tubos com 4 bolas coloridas cada;\n
+• A Figura 1(a) mostra o cenário inicial do jogo:
+o N tubos com 4 bolas coloridas cada;
 o 2 tubos vazios;
 o N cores de bolas.
 • A Figura 1(b) mostra o cenário que se deve alcançar, o objetivo do jogo:
