@@ -1,5 +1,6 @@
 # Ball-Sort-Puzzle
  Jogo desenvolvido durante a faculdade.
+ (Projeto feito em Code::Blocks)
  
  //ENUNCIADO
  
