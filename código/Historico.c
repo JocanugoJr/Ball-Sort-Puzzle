@@ -5,20 +5,6 @@
 
 #define TUBOS_VAZIOS 2
 
-//struct pontuação
-struct _pontuacao
-{
-	int passos;
-	int n;//que por determinação as cores e os tubos tem a mesma quantidade
-	struct _pontuacao *prox;
-};
-//struct histórico
-struct _historyh
-{
-	Pontuacao* prim;
-	int quant;
-};
-
 //um tipo só para armazenar o historico(pilha)
 HistoryH* cria_historico()
 {

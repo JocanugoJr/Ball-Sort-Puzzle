@@ -1,14 +1,14 @@
 #ifndef PILHASBOLINHAS_H_INCLUDED
 #define PILHASBOLINHAS_H_INCLUDED
 
-typedef struct elemento Elemento;
+typedef struct elemento
 {
 	int info;
 	struct elemento *prox;
 }Elemento;
 
 /*estrutura da pilha (cabeçalho) */
-typedef struct pilha Pilha;
+typedef struct pilha
 {
 	Elemento *prim; // aponta para o topo
 	int Max;
