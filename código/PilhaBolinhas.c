@@ -4,20 +4,6 @@
 
 /**ALÉM DAS FUNÇÕES DE PILHA* TEM FUNÇÕES PILHA** */
 
-struct elemento
-{
-	int info;
-	struct elemento *prox;
-};
-
-/*estrutura da pilha (cabeçalho) */
-struct pilha
-{
-	Elemento *prim; // aponta para o topo
-	int Max;
-	int qtd;
-};
-
 Pilha* pilha_cria ()
 {
 	Pilha *p = (Pilha*) malloc(sizeof(Pilha));
